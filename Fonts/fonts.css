@@ -1,0 +1,64 @@
+.div-product {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    color: #282828;
+}
+.div-product-h1 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 54px;
+    color: #282828;
+}
+.div-p {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: #5F6980;
+}
+.product-item-h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: #282828;
+}
+.product-item-p {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #5F6980;
+}
+.product-item-p2 {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #5F6980;
+}
+.footer-p {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #5F6980;
+ }
+ .nav-a1 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: #1E1E1E;
+ }
+ .nav-a {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #5F6980;
+ }
+ 

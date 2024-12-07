@@ -1,0 +1,130 @@
+.cont {
+    width: 1336px;
+    height: 178px;
+    margin: 80px auto;
+}
+.div-product {
+    display: flex;
+    justify-content: center;
+}
+.div-product-h1 {
+    display: flex;
+    justify-content: center;
+}
+.divp {
+    padding-top: 65px;
+}
+.div-p {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 1336px;
+    height: 908px;
+    margin: 0 auto;
+}
+.img {
+    width: 310px;
+    height: 230px;
+    display: block;
+}
+.product-item {
+    width: 310px;
+}
+.container-wraper {
+    display: flex;
+    justify-content: space-between;
+}
+.grey-block {
+    width: 100%;
+    height: 200px;
+}
+.product-item-h3 {
+   margin: 16px 0 4px 16px;
+}
+.product-item-p {
+    margin: 4px 0 0 16px;
+ }
+.product-item-p2 {
+    margin: 8px 0 24px 16px;
+ }
+ .blocks {
+    height: 36px;
+    width: 278px;
+   margin: 24px 16px 16px 16px;
+   display: flex;
+
+ }
+ .div1 {
+    background-color: #F2F4F7;
+    width: 36px;
+    height: 36px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
+ .div2 {
+    background-color: #F2F4F7;
+    width: 36px;
+    height: 36px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .div3 {
+    background-color: #F2F4F7;
+    width: 36px;
+    height: 36px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .icon {
+    width: 16px;
+    height: 16px;
+ }
+ .footer {
+    width: 100%;
+    height: 460px;
+    background-color: #53535354;
+ }
+ .footer-p {
+    margin: 32px 0 28px 0;
+    width: 306.5px;
+ }
+ .all {
+ display: flex;   
+ justify-content:space-around;
+ padding-top: 150px;
+ }
+ .nav-p {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F2F4F7;
+    background-color: #054A68;
+    width: 80px;
+    height: 45px;
+ }
+ .nav-a {
+    display: flex;
+    margin-top: 50px;
+
+ }
+ .left-left {
+
+ }
+ .left {
+ }
+ .left-right {
+    
+ }
+ .right {
+
+ }
+ 
