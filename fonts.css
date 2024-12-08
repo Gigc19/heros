@@ -1,0 +1,56 @@
+.head-h6 {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 16px;
+  font-style: normal;
+  color: #282828;
+}
+.head-h1 {
+    font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 54px;
+  font-style: normal;
+  color: #282828;
+}
+.product-h4 {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 18px;
+    font-style: normal;
+    color: #282828;
+}
+.product-p {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #3E3E59;
+}
+.product-p2 {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #3E3E59;
+}
+.footer-a {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #3E3E59;
+}
+.footer-a1 {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 20px;
+    font-style: normal;
+    color: #1E1E1E;
+}
